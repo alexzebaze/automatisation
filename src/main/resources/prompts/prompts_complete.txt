@@ -1,0 +1,35 @@
+You are a senior software architect and code reviewer.
+Analyze the entire in the current directory before answering. The instructions for the kata are described in the README file, so read it first to understand the expected behavior and requirements.
+Then provide in a review.md file, a thorough review including:
+
+	1.Code quality review
+		readability
+		maintainability
+		naming conventions
+		duplication
+	2.Architecture analysis
+		design choices
+		layering and separation of concerns
+		modularity
+		adherence to clean architecture principles
+	3.Security vulnerabilities
+		unsafe patterns
+		input validation issues
+		dependency risks
+	4.Performance concerns
+		inefficient algorithms
+		unnecessary computations
+		scalability risks
+	5.Testing assessment
+		missing tests
+		insufficient coverage
+		weak or brittle tests
+	6.Best practice violations
+		language-specific conventions
+		common engineering standards
+	7.File-by-file feedback
+		identify problematic files
+		provide concrete suggestions for improvement
+	8.Summary of recommended refactorings
+		prioritized list of the most important changes
+Be strict, precise, and actionable. When possible, suggest concrete refactorings or code examples.
